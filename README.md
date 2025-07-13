@@ -28,7 +28,7 @@ Coming soon: Live deployment link
 
 ## 🚀 Live Demo
 
-🔗 [Live Web App]([https://your-streamlit-link.streamlit.app](https://upi-fraud-detector.streamlit.app/)) *(Replace after deployment)*  
+🔗 [Live Web App]([https://your-streamlit-link.streamlit.app](https://upi-fraud-detector.streamlit.app/)) 
 
 
 ---
