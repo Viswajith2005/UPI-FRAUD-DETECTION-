@@ -69,7 +69,8 @@ Coming soon: Live deployment link
 │ └── Model evaluation
 └── catboost_info/ # Model training logs
 
-
+📄 Published Paper: [UPI FRAUD DETECTION]([https://link-to-your-paper.com](https://ieeexplore.ieee.org/abstract/document/11052942))  
+Presented at [IEEE Conference], 2025
 
 ---
 
@@ -98,4 +99,6 @@ App predicts which transactions are fraudulent
 View predictions and model confidence
 
 Use the app in fraud monitoring or as an ML showcase
+
+
 
