@@ -28,8 +28,8 @@ Coming soon: Live deployment link
 
 ## 🚀 Live Demo
 
-🔗 [Live Web App](https://your-streamlit-link.streamlit.app) *(Replace after deployment)*  
-🔗 [Source Code](https://github.com/Viswajith2005/upi-fraud-detection)
+🔗 [Live Web App]([https://your-streamlit-link.streamlit.app](https://upi-fraud-detector.streamlit.app/)) *(Replace after deployment)*  
+
 
 ---
 
